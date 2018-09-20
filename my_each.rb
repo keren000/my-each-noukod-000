@@ -1,4 +1,4 @@
-def my_each # put argument(s) here
+def my_each(collection) # put argument(s) here
   # code here
   counter = 0
   while collection.length > counter
